@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "COLOR1_Key": 1,
+        "COLOR2_kEY": 3,
+        "KEY_COLOR1": 0,
+        "KEY_COLOR2": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Desmond Brand",
+    "longName": "illusion3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "illusion3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4fe9f4fa-f65b-41f8-b7a5-2c8b1f8a557d",
+    "versionLabel": "3.01",
+    "watchapp": {
+        "watchface": true
+    }
+}
